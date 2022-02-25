@@ -11346,3 +11346,7 @@ section.user_info h1, section.user_info .h1 {
 .float-right {
   float: right;
 }
+
+.text-right {
+  text-align: right;
+}
